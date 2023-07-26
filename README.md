@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Application Development**
 
 - 👨‍💻 All of my projects are available at [vigneshport.onrender.com](vigneshport.onrender.com)
 
