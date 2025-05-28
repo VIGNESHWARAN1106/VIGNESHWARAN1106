@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshwaran1106&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshwaran1106" /> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **Application Development**
 
