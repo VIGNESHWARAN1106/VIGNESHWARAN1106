@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VIGNESHWARAN C</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer who crafting Mobile Apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshwaran1106&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshwaran1106" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [vigneshport.onrender.com](vigneshport.onrender.com)
 
-- 📫 How to reach me **vigneshwaran.cs20@bitsathy.ac.in**
+- 📫 How to reach me *ivickie1106@gmail.com**
 
 - 📄 Know about my experiences [vigneshport.onrender.com/My%20Resume.pdf](vigneshport.onrender.com/My%20Resume.pdf)
 
